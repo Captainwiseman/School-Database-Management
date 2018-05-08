@@ -1,7 +1,7 @@
 # School-Database-Management
 
-A simple school database management system
-Use these credentials to log in and play around:
+A simple school database management system,
+use these credentials to log in and play around:
 
 Email: admin@gmail.com
 Password:369
